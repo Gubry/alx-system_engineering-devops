@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Fa [:digit:][:alpha:]*|tr [:space:] ','|\n
+ls -pamv
